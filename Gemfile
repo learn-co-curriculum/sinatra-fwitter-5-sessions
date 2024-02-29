@@ -4,7 +4,7 @@ gem "sinatra"
 gem "activerecord"
 gem "sinatra-activerecord"
 gem "rake"
-gem 'rack', '~>1.6.12'
+gem 'rack', '~>2.2.8'
 
 group :development do
   gem "sqlite3"
